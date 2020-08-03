@@ -1,0 +1,38 @@
+#navbar {
+    padding-left: 20px;
+    padding-right: 20px;
+    z-index: 34;
+    // transition: 0.2s ease;
+}
+
+#input-slider {
+    transition: 0.5s ease-in-out;
+    input {
+        margin-right: 100px;
+    }
+}
+
+.center-navbar {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.slide-right {
+    transform: translateX(900px);
+}
+
+.slide-left {
+    transform: translateX(-10px);
+}
+
+.nav-shadow {
+    box-shadow: 0 8px 6px -6px black;
+}
+
+.bg-nav {
+    background: #f8a376 !important;
+}
+
+.navbar-input {
+    width: 300px;
+}

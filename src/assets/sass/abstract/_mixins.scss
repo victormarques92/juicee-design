@@ -1,0 +1,71 @@
+// Font-size :: px TO px
+@mixin font($size) {
+  font-size: $size + px;
+}
+
+
+// padding :: aligns + px TO px
+@mixin padding($direction: all, $size: 0) {
+  @if $direction==top {
+    padding-top: $size + px;
+  }
+
+  @else if $direction==bottom {
+    padding-bottom: $size + px;
+  }
+
+  @else if $direction==left {
+    padding-left: $size + px;
+  }
+
+  @else if $direction==right {
+    padding-right: $size + px;
+  }
+
+  @else if $direction==both {
+    padding-top: $size + px;
+    padding-bottom: $size + px;
+  }
+
+  @else if $direction==sides {
+    padding-left: $size + px;
+    padding-right: $size + px;
+  }
+
+  @else {
+    padding: $size + px;
+  }
+}
+
+
+// margin :: aligns + px TO px
+@mixin margin($direction: all, $size: 0) {
+  @if $direction==auto {
+    margin: 0 auto;
+  }
+
+  @else if $direction==top {
+    margin-top: $size + px;
+  }
+
+  @else if $direction==bottom {
+    margin-bottom: $size + px;
+  }
+
+  @else if $direction==left {
+    margin-left: $size + px;
+  }
+
+  @else if $direction==right {
+    margin-right: $size + px;
+  }
+
+  @else if $direction==both {
+    margin-top: $size + px;
+    margin-bottom: $size + px;
+  }
+
+  @else {
+    margin: $size + px;
+  }
+}

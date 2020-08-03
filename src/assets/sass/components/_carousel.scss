@@ -1,0 +1,110 @@
+.bg-1 {
+    background-color: #FFC69E;
+}
+
+.bg-2 {
+    background-color: #899FFB;
+}
+
+.bg-3 {
+    background-color: #A8C6C2;
+}
+
+.bg-4 {
+    background-color: #212C32;
+}
+
+.bg-5 {
+    background-color: #FF806E;
+}
+
+.bg-6 {
+    background-color: #6C6CEC;
+}
+
+.bg-7 {
+    background-color: #B3D0D6;
+}
+
+// window coloriing
+.w-bg-width {
+    width: 100%;
+    @media screenn and (min-width: 1024px) {
+        width: 430px;
+    }
+}
+
+.w-bg-1 {
+    background-color: #FFE4D1;
+}
+
+.w-bg-2 {
+    background-color: #B8C6F7;
+}
+
+.w-bg-3 {
+    background-color: #D5DFDE;
+}
+
+.w-bg-6 {
+    background-color: #A1A1FF;
+}
+
+// images
+// nfk
+.nfk {
+    width: 100%;
+    background-image: url('../../assets/images/carousel/nfk-tl.png'), url('../../assets/images/carousel/nfk-c.png'), url('../../assets/images/carousel/nfk-tr.png'), url('../../assets/images/carousel/nfk-bl.png'), url('../../assets/images/carousel/nvk-bc.png'), url('../../assets/images/carousel/nfk-br.png');
+    background-repeat: no-repeat;
+    background-position: left top, 170px top, 535px top, left bottom, 248px bottom, 535px bottom;
+    @media screen and (min-width: 1280px) {
+        width: 900px;
+    }
+}
+
+.startag {
+    width: 100%;
+    background-image: url('../../assets/images/carousel/startag-tl.png'), url('../../assets/images/carousel/startag-tc.png'), url('../../assets/images/carousel/startag-tr.png'), url('../../assets/images/carousel/startag-bl.png'), url('../../assets/images/carousel/startag-bc.png'), url('../../assets/images/carousel/startag-br.png');
+    background-repeat: no-repeat;
+    background-position: left top, 80px top, 330px top, left bottom, 209px bottom, 433px bottom;
+    @media screen and (min-width: 1280px) {
+        width: 900px;
+    }
+}
+
+.sneaq {
+    width: 100%;
+    background-image: url('../../assets/images/carousel/slide4front.png'), url('../../assets/images/carousel/slide4back.png'), url('../../assets/images/carousel/login.png');
+    background-repeat: no-repeat;
+    background-position: 33px bottom, 200px bottom, left;
+    background-size: auto, auto, cover;
+    @media screen and (min-width: 1280px) {
+        width: 900px;
+        background-size: auto, auto, auto;
+    }
+}
+
+.umergency {
+    width: 100%;
+    background-image: url('../../assets/images/carousel/umergency.png'), url('../../assets/images/carousel/ambulance.png');
+    background-repeat: no-repeat, no-repeat;
+    background-position: left bottom;
+    background-size: auto, cover;
+    @media screen and (min-width: 1280px) {
+        width: 900px;
+        background-position: center bottom, center bottom;
+        background-size: auto, auto;
+    }
+}
+
+.gigers {
+    width: 100%;
+    background-image: url('../../assets/images/carousel/slide7front.png'), url('../../assets/images/carousel/slide7back.png'), url('../../assets/images/carousel/backpacker.png');
+    background-repeat: no-repeat;
+    background-position: 216px bottom, 117px bottom, left;
+    background-size: auto, auto, cover;
+    @media screen and (min-width: 1280px) {
+        width: 900px;
+        background-size: auto, auto, auto;
+    }
+}

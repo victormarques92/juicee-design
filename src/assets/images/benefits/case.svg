@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="64px" viewBox="0 0 82 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>case</title>
+    <desc>Created with Sketch.</desc>
+    <g id="symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Benefits-section" transform="translate(-119.000000, -172.000000)" stroke="#2F3136" stroke-width="2">
+            <g id="case" transform="translate(120.000000, 173.000000)">
+                <path d="M79.9983,23.0005 L79.9983,11.5355 C79.9983,9.8665 78.7273,8.5005 77.1743,8.5005 L56.2003,8.5005" id="Stroke-1"></path>
+                <path d="M39.9998,36.0005 C55.4298,36.0005 69.4788,33.1955 79.9998,28.6035 L79.9988,28.6035 L79.9988,58.4655 C79.9988,60.1345 78.7278,61.5005 77.1748,61.5005 L2.8248,61.5005 C1.2718,61.5005 0.0008,60.1345 0.0008,58.4655 L0.0008,35.0005" id="Stroke-3"></path>
+                <path d="M45.116,35.895 L45.116,39.816 C45.116,41.022 44.206,42 43.083,42 L36.916,42 C35.794,42 34.884,41.022 34.884,39.816 L34.884,35.892 L34.884,35.897 C21.475,35.352 9.346,32.683 1.0658141e-14,28.603 L0.001,28.603 L0.001,11.536 C0.001,9.867 1.272,8.5 2.825,8.5 L56.278,8.5 L56.278,7.459 C56.278,3.357 53.156,0 49.34,0 L30.659,0 C28.264,0 26.143,1.323 24.895,3.321" id="Stroke-5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

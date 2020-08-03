@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 82 64" xmlns="http://www.w3.org/2000/svg">
+<title>case</title>
+<desc>Created with Sketch.</desc>
+<g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(-119 -172)" stroke="#2F3136" stroke-width="2">
+<g transform="translate(120 173)">
+<path d="m79.998 23v-11.465c0-1.669-1.271-3.035-2.824-3.035h-20.974"/>
+<path d="m40 36c15.43 0 29.479-2.805 40-7.397h-1e-3v29.862c0 1.669-1.271 3.035-2.824 3.035h-74.35c-1.553 0-2.824-1.366-2.824-3.035v-23.465"/>
+<path d="m45.116 35.895v3.921c0 1.206-0.91 2.184-2.033 2.184h-6.167c-1.122 0-2.032-0.978-2.032-2.184v-3.924 5e-3c-13.409-0.545-25.538-3.214-34.884-7.294h1e-3v-17.067c0-1.669 1.271-3.036 2.824-3.036h53.453v-1.041c0-4.102-3.122-7.459-6.938-7.459h-18.681c-2.395 0-4.516 1.323-5.764 3.321"/>
+</g>
+</g>
+</g>
+</svg>

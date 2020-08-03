@@ -1,0 +1,42 @@
+[{
+    "id": 1,
+    "title": "MVP",
+    "bestDeal": false,
+    "features": [
+      "Mobile or Web App",
+      "15 screens on average",
+      "Unlimited Revisions",
+      "10 Business Days Delivery"
+    ],
+    "price": 4.999
+  },
+  {
+    "id": 2,
+    "title": "Product",
+    "bestDeal": true,
+    "features": [
+      "Mobile or Web App",
+      "30 Screens on average",
+      "Unlimited Revisions",
+      "Clickable Prototype",
+      "Custom Illustrations",
+      "15 Business Days Delivery"
+    ],
+    "price": 7.499
+  },
+  {
+    "id": 3,
+    "title": "Full Product",
+    "bestDeal": false,
+    "features": [
+      "Mobile or Web App",
+      "Unlimited Screens",
+      "Unlimited Revisions",
+      "Clickable Prototype",
+      "Custom Illustrations",
+      "Branding",
+      "20 Business Days Delivery"
+    ],
+    "price": 9.999
+  }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 87 68" xmlns="http://www.w3.org/2000/svg">
+<title>chat</title>
+<desc>Created with Sketch.</desc>
+<g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(-555 -555)" stroke="#2F3136" stroke-width="2">
+<g transform="translate(556 556)">
+<path d="m2.8422e-14 4.59c0-2.524 2.065-4.59 4.59-4.59h29.606c2.525 0 4.59 2.066 4.59 4.59v18.646c0 2.524-2.065 4.589-4.59 4.589h-3.584l0.585 5.903-7.037-4.785c-1.07-0.729-2.334-1.118-3.629-1.118h-15.941c-2.525 0-4.59-2.065-4.59-4.589v-11.645"/>
+<path d="m84.317 36.509c0-2.538-2.076-4.614-4.614-4.614h-29.769c-2.537 0-4.614 2.076-4.614 4.614v18.747c0 2.538 2.077 4.614 4.614 4.614h3.604l-0.588 5.935 7.075-4.812c1.076-0.731 2.348-1.123 3.649-1.123h16.029c2.538 0 4.614-2.076 4.614-4.614v-10.584"/>
+</g>
+</g>
+</g>
+</svg>

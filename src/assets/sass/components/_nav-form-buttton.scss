@@ -1,0 +1,26 @@
+.nav-form-button {
+    height: 43px;
+    width: 186px;
+    font-size: 16px;
+    line-height: 32px;
+    @media screen and (min-width: 768px) {
+        height: 60px;
+        width: 225px;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    @media screen and (min-width: 1024px) {
+        height: 72px;
+        width: 303px;
+        border-radius: 40.5px;
+        font-size: 25px;
+        line-height: 40px;
+    }
+}
+
+.nav-form-button-small {
+    height: 43px;
+    width: 186px;
+    font-size: 16px;
+    line-height: 41px;
+}

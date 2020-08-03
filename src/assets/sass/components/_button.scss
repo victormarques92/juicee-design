@@ -1,0 +1,90 @@
+$color-black: #000;
+.btn {
+    &:link,
+    &:visited {
+        text-transform: uppercase;
+        text-decoration: none;
+        padding: 15px 40px;
+        display: inline-block;
+        border-radius: 100px;
+        position: relative;
+        transition: all .2s;
+    }
+    &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 20px rgba($color-black, .2);
+        &::after {
+            transform: scaleX(1.5) scaleY(1.6);
+            opacity: 0;
+        }
+    }
+    &:active {
+        transform: translateY(-1px);
+        box-shadow: 0 5px 10px rgba($color-black, .2);
+    }
+    &--white {
+        background-color: transparent;
+        color: #fff;
+        &::after {
+            background-color: white;
+        }
+    }
+    &::after {
+        content: "";
+        display: inline-block;
+        height: 100%;
+        width: 100%;
+        border-radius: 100px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: -1;
+        transition: all .4s;
+    }
+    &--animated {
+        animation: moveInBottom .5s ease-out .75s;
+        animation-fill-mode: backwards;
+    }
+    &--small {
+        height: 43px;
+        width: 186px;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    &--medium {
+        height: 60px;
+        width: 225px;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    &--large {
+        height: 72px;
+        width: 303px;
+        border-radius: 40.5px;
+        font-size: 25px;
+        line-height: 40px;
+    }
+}
+
+@import "@/assets/sass/abstract/_mixins.scss";
+@import "@/assets/sass/abstract/_variables.scss";
+.btn-default:link,
+.btn-default:visited {
+    @include padding('sides', 50);
+    @include padding('both', 5);
+    @include font(20);
+    background-color: $secundary;
+    border-radius: 50px;
+    color: $white;
+    display: inline-block;
+    transition: .25s ease-in-out;
+    &:hover,
+    &:active {
+        background-color: darken($secundary, 15%);
+        box-shadow: 0 2px 8px -2px rgba($black, .4);
+    }
+    &.larger {
+        @include padding('sides', 65);
+        @include padding('both', 12);
+    }
+}

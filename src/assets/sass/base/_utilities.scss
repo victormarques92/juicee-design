@@ -1,0 +1,74 @@
+// grid 
+.j-grid {
+    max-width: 1400px;
+}
+
+// transition
+.j-transition {
+    transition: all .2s ease-in-out;
+}
+
+// remove focus
+.j-no-focus {
+    &:focus {
+        outline: none;
+    }
+}
+
+// animation classes
+.move-in-left {
+    animation-name: moveInLeft;
+}
+
+.move-in-right {
+    animation-name: moveInRight;
+}
+
+.move-in-left-extensive {
+    animation-name: moveInLeftExtensive;
+}
+
+.move-in-right-extensive {
+    animation-name: moveInRightExtensive;
+}
+
+.move-in-top {
+    animation-name: moveInTop;
+}
+
+.move-in-bottom {
+    animation-name: moveInBottom;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: backwards;
+}
+
+.to-top {
+    animation-name: toTop;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: backwards;
+}
+
+.to-bottom {
+    animation-name: toBottom;
+}
+
+.show-up {
+    animation-name: showUp;
+    animation-fill-mode: backwards;
+}
+
+.move-in-bottom-extensive {
+    animation-name: moveInBottomExtensive;
+    animation-fill-mode: backwards;
+}
+
+.j-animation-duration {
+    animation-duration: .8s;
+}
+
+// z index
+.show-above-placeholder {
+    z-index: 2;
+}

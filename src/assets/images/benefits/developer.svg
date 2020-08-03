@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="63px" viewBox="0 0 87 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>developer</title>
+    <desc>Created with Sketch.</desc>
+    <g id="symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Benefits-section" transform="translate(-559.000000, -172.000000)" stroke="#2F3136" stroke-width="2">
+            <g id="developer" transform="translate(560.000000, 173.000000)">
+                <path d="M0,61 L85,61" id="Stroke-7"></path>
+                <polyline id="Stroke-9" points="71 60 85 32 51 32 41.158 51.684 23 51.684"></polyline>
+                <path d="M5.68434189e-14,54.6338 L5.68434189e-14,48.9998 C5.68434189e-14,42.4008 5.4,36.9998 12,36.9998 L33,36.9998 C34.65,36.9998 36.225,37.3378 37.659,37.9468" id="Stroke-11"></path>
+                <path d="M24,32 L20,32 C13.4,32 8,26.6 8,20 L8,12 C8,5.4 13.4,0 20,0 L24,0 C30.6,0 36,5.4 36,12 L36,20 C36,26.6 30.6,32 24,32 Z" id="Stroke-13"></path>
+                <path d="M28,21.4385 L28,21.4385 C28,23.8225 26.05,25.7725 23.667,25.7725 L20.333,25.7725 C17.95,25.7725 16,23.8225 16,21.4385 L28,21.4385 Z" id="Stroke-15"></path>
+            </g>
+        </g>
+    </g>
+</svg>

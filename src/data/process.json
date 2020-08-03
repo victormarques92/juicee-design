@@ -1,0 +1,18 @@
+[{
+    "id": 1,
+    "title": "Rapid Prototyping & <br> Wireframing",
+    "body": "We, virtually, seat together to understand what are your app goals. We use the best collaborative tools to validate that we are on the same page when it comes to the User Experience",
+    "image": "../../assets/images/placeholders/workflow1.svg"
+  },
+  {
+    "id": 2,
+    "title": "High-Fidelity Design",
+    "body": "After we’ve validated the UX, it’s time to starting coloring and styling the prototype. A daily update delivered at an Invision Link guarantees that you keep track of the design developments and we are aligned when it comes to style.",
+    "image": "../../assets/images/placeholders/workflow2.svg"
+  },
+  {
+    "title": "Iterate & Delivery",
+    "body": "The last days are spent on doing the final iterations that result from your great feedback. We deliver the design in a shareable link that you manage plus all the assets.",
+    "image": "../../assets/images/placeholders/workflow2.svg"
+  }
+]

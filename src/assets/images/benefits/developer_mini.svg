@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 87 63" xmlns="http://www.w3.org/2000/svg">
+<title>developer</title>
+<desc>Created with Sketch.</desc>
+<g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(-559 -172)" stroke="#2F3136" stroke-width="2">
+<g transform="translate(560 173)">
+<path d="m0 61h85"/>
+<polyline points="71 60 85 32 51 32 41.158 51.684 23 51.684"/>
+<path d="m5.6843e-14 54.634v-5.634c0-6.599 5.4-12 12-12h21c1.65 0 3.225 0.338 4.659 0.947"/>
+<path d="m24 32h-4c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h4c6.6 0 12 5.4 12 12v8c0 6.6-5.4 12-12 12z"/>
+<path d="m28 21.438c0 2.384-1.95 4.334-4.333 4.334h-3.334c-2.383 0-4.333-1.95-4.333-4.334h12z"/>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+@import './tailwind.scss';
+@import './abstract/animate';
+@import './abstract/mixins';
+@import './abstract/variables';
+@import './base/typography';
+@import './base/utilities';
+@import './base/animations.scss';
+@import './components/button';
+@import './base/base';
+@import './components/carousel';
+@import './components/pricebox';
+html {
+    font-size: 10px;
+
+    &::-webkit-scrollbar-track {
+        background-color: #F4F4F4;
+        &:hover {
+            background-color: darken(#F4F4F4, 5%);
+        }
+    }
+
+    &::-webkit-scrollbar {
+        width: 10px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: #B3D0D5;
+        border-radius: 50px;
+
+        &:hover,
+        &:active {
+            background: #7D9EA5;
+        }
+    }
+}

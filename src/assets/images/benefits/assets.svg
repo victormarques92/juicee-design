@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="71px" viewBox="0 0 72 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>assets</title>
+    <desc>Created with Sketch.</desc>
+    <g id="symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Benefits-section" transform="translate(-1005.000000, -562.000000)" stroke="#2F3136" stroke-width="2">
+            <g id="assets" transform="translate(1006.000000, 563.000000)">
+                <path d="M64.1084,34.056 C66.9534,34.056 69.2584,36.363 69.2584,39.207 L69.2584,62.905 C69.2584,65.749 66.9534,68.056 64.1084,68.056 L40.4104,68.056 C37.5654,68.056 35.2584,65.749 35.2584,62.905 L35.2584,52.591" id="Stroke-59"></path>
+                <path d="M46.4785,17.6859 C49.3235,17.6859 51.6295,19.9919 51.6295,22.8369 L51.6295,46.5349 C51.6295,49.3789 49.3235,51.6859 46.4785,51.6859 L22.7815,51.6859 C19.9355,51.6859 17.6295,49.3789 17.6295,46.5349 L17.6295,33.9349" id="Stroke-61"></path>
+                <path d="M5.1514,0.056 L28.8484,0.056 C31.6934,0.056 34.0004,2.363 34.0004,5.207 L34.0004,28.905 C34.0004,31.749 31.6934,34.056 28.8484,34.056 L5.1514,34.056 C2.3064,34.056 0.0004,31.749 0.0004,28.905 L0.0004,5.207 C0.0004,2.363 2.3064,0.056 5.1514,0.056 Z" id="Stroke-63"></path>
+            </g>
+        </g>
+    </g>
+</svg>
