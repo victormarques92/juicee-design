@@ -1,16 +1,24 @@
-# Default starter for Gridsome
+# Juicee Design
 
-This is the project you get when you run `gridsome create new-project`.
+### Skills
 
-### 1. Install Gridsome CLI tool if you don't have
+* HTML
+* CSS (SCSS)
+* JavaScript
+* VueJS
 
-`npm install --global @gridsome/cli`
+### Installation
 
-### 2. Create a Gridsome project
+```sh
+$ npm install
+or
+$ yarn
+```
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+### Run
 
-.
+```sh
+$ npm run develop
+or
+$ yarn develop
+```
